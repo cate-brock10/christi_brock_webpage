@@ -180,9 +180,8 @@ button:focus-visible {
 
 .hero-logo {
   display: block;
-  width: min(240px, 58vw);
-  border-radius: 12px;
-  box-shadow: var(--shadow);
+  width: min(320px, 72vw);
+  max-width: 100%;
 }
 
 .btn {
@@ -297,11 +296,27 @@ button:focus-visible {
 
 .footer-wrap {
   display: grid;
-  gap: 0.2rem;
+  gap: 0.35rem;
 }
 
 .site-footer a {
   color: var(--gold-300);
+}
+
+.footer-disclaimer {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+}
+
+.footer-disclaimer p {
+  margin: 0;
+}
+
+.footer-logo {
+  width: 44px;
+  height: auto;
+  border-radius: 8px;
 }
 
 @media (min-width: 760px) {

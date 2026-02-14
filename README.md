@@ -39,6 +39,7 @@ npx serve .
 ## Notes
 - Main styles: `assets/css/styles.css`
 - Main script: `assets/js/main.js`
-- Facebook and yard-sign links are wired from the provided links data.
+- Facebook, Instagram, LinkedIn, email, and yard-sign links are wired from the provided links data.
 - Footer disclaimer text: `Paid for by Christi Brock for Prosecutor Committee`.
 - Layout is mobile-first and optimized for phone/tablet/desktop breakpoints.
+- Home hero uses `assets/img/logo2.png`; footer mark uses `assets/img/logo3.PNG`.
