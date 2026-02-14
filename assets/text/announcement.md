@@ -1,0 +1,10 @@
+Christi Brock announces her candidacy for the office of Henry County Prosecutor and will seek the Republican nomination in the May 2026 primary election.
+
+Christi Brock has dedicated 10 years to serving the citizens of Henry County in the Henry County Prosecutor’s Office, and she has devoted many more years to the community through other work and service. During her time in the prosecutor’s office, Brock worked closely with law enforcement to prosecute all manner of crimes including drug cases, sex crimes, and juvenile matters.
+
+Christi Brock has extensive courtroom experience, and she is the only candidate who has successfully prosecuted a level 1 felony case to a jury verdict in Henry County in the last 5 years. Brock has been a steadfast advocate for survivors of crime and their families, often taking cases to trial to ensure justice is served, all while working closely with victims to preserve their dignity and safety.
+
+
+Christi Brock grew up in Henry County, graduating from New Castle High School in 1993. She and her husband, Mark, returned to New Castle to raise their family. Brock currently works at the law firm DeFur Voran on Broad Street where she focuses on civil litigation, guardian ad litem work, estate planning, and municipal work. She volunteers as a member of the Crisis Intervention Team (CIT), a collaboration of mental health professionals and law enforcement working for informed and compassionate responses to mental health crises, a Court Appointed Special Advocate (CASA) for children in need, and a board member of Red-Tail Land Conservancy, a group tasked with preserving wildlife and natural habitats in East Central Indiana.
+
+Christi Brock’s experience, leadership, and commitment to justice make her uniquely qualified to serve as your Henry County Prosecutor.
